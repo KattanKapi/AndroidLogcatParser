@@ -51,7 +51,7 @@ class AndroidWorkbenchMainWindow(QWidget):
         # drag an drop support
         self.setAcceptDrops(True)
         
-        self.setWindowTitle("Android workbench ... John J Chooracken<john.j.chooracken@accenture.com>")
+        self.setWindowTitle("Android workbench ... John J Chooracken<johnjc@gmail.com>")
 
         self.horizontalCheckboxLayout = QHBoxLayout()
         self.horizontalCheckboxLayout.addStretch(1)
